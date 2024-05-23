@@ -1,0 +1,74 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+/* *****nav bar part ***** */
+.logo-img{
+    height:100px;
+}
+.dwnlod-logo{
+    height: 20px;
+}
+ul :hover{
+    color:white;
+    cursor: pointer;
+}
+.dwn-btn{
+    background-color: aqua;
+    border-radius: 7px;
+}
+header{
+    background-color: black;
+}
+
+/* *****banner section part ***** */
+.banner-text{
+    color: aqua;
+}
+.my-img{
+    /* height: 350px; */
+    width: 100%;
+}
+.banner{
+    border:1px solid;
+    padding:5px;
+    border-radius: 7px;
+}
+/* ******portfolio part**** */
+.port-btn{
+    background-color: gray;
+    color: white;
+    padding:2px;
+    border: none;
+    border-radius: 5px;
+}
+.portfolio{
+    border: 1px solid ;
+    border-radius: 7px;
+}
+
+/* ****** main **** */
+main{
+    
+    background-color: black;
+}
+/* .education{
+    margin-top: 200px;
+} */
+.contact-us{
+    border:1px solid;
+    border-radius: 7px;
+    
+}
+.footer{
+    margin-top: 100px;
+    border: 1px solid;
+}
+
+.menus{
+    color:aqua !important;
+}
+.menus:hover{
+    color: white !important;
+}
